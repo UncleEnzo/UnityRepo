@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\BlockBreakerV4\Assets\Scripts\LevelManager.cs">
+    <Files>
+      <File FileName="..\BlockBreakerV4\Assets\Scripts\Brick.cs" Line="11" Column="36" />
+      <File FileName="..\BlockBreakerV4\Assets\Scripts\LevelManager.cs" Line="13" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
